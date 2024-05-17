@@ -1,43 +1,33 @@
-<html>
-
-</head>
-
-<title>JavierZapata</title>
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 </head>
 <body>
-
-<body BGCOLOR="#EAEAAE"> 
-
-
-
-<center><FONT SIZE=20> <FONT COLOR=BLACK>CURRICULUM VITAE</FONT></FONT><!--TAMAÑO FUENTE!--> </CENTER> <!-- CENTRA EL TITULO!--> </BR> </BR>  <!-- SALTO DE LINEA!-->
-<center><img src="jazr26.jpg"width="150" height="200"/></center>
-
-<N><S><FONT SIZE=10><FONT COLOR=BLACK> PERSONAL INFORMATION </N></S> </FONT></FONT> </BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> NAMES:</N></FONT> JAVIER ALEXANDER</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> SURNAME:</N></FONT> ZAPATA RAMOS</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> EMAIL:</N></FONT>anlizari@gmail.com</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> DIRECTION:</N></FONT> Harbin engineering university</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> PHONE:</N></FONT> +86 185 19438019</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> UNIVERSITY:</N></FONT> Harbin engineering university</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> DEGREE:</N></FONT> Civil engineering</BR>
-
-
-<N><S><FONT SIZE=10><FONT COLOR=BLACK> HOBBIES </N></S> </FONT></FONT> </BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> PLAY SOCCER</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> STUDY CHINESE CULTURE</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> TRAVELING</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> LISTEN MUSIC</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> DANCING</BR>
-<N><FONT SIZE=6><FONT COLOR=#937006> LEARNING LENGUAGES</BR>
-
-
-
-
-
+    <h1>my name is javier zapata</h1>
+    <p>This is a simple homepage created for my GitHub profile.</p >
 </body>
+</html>
 
 
 
-/<html>
+[GitHub](https://github.com/javierZ26/javierZ262.github.io)
+
+
+<h1 id="javier">javier</h1>
+<h2 id="personal-information">Personal Information</h2>
+<ul>
+<li>Address: Harbin Engineering University</li>
+<li>Cell Phone: 185 4319 8019</li>
+<li>Email Address: anlizari@gmail.com</li>
+</ul>
+<h2 id="capabilities">Capabilities</h2>
+<ul>
+<li>learning lenaguages : C</li>
+<li>Implements : Git</li>
+<li>work hard</li>
+<li>spanish </li>
+</ul>
+<h2 id="activities">activities</h2>
+<p>-play soccer
